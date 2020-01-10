@@ -1,2 +1,2 @@
 # Memory-Game
-A game to check our memory power
+A simple game to check our memory power
